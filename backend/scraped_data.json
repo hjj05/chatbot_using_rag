@@ -1,0 +1,577 @@
+[
+  {
+      "name": "Drama Club",
+      "purpose": "Drama club is all about finding new ideas of expression, encouraging the interested performers and providing attractive content for the audience. The club endeavors to build bridges between all the students of college without any discrimination. The Drama club includes many forms of art like drama, skit, mono acting, spot, standup, mimicry, story writing, dialogue writing, directing etc which enhance and contribute to the expressions on the stage.",
+      "pastEvents": [
+          {
+              "name": "Sankranthi Video",
+              "theme": "Festive Video",
+              "date": "14th January, 2022"
+          },
+          {
+              "name": "Forgotten Heroes",
+              "theme": "Podcast Series On Army Heroes",
+              "date": "13th January, 2022 to 31st January, 2022"
+          },
+          {
+              "name": "Skit Based On Movie Characters",
+              "theme": "Event: Pixel",
+              "date": "1st April, 2022"
+          },
+          {
+              "name": "Skit Based On Time Travel",
+              "theme": "Event: Pixel",
+              "date": "1st April, 2022"
+          },
+          {
+              "name": "Story Telling About A Heartbreak",
+              "theme": "Event: Pixel",
+              "date": "1st April, 2022"
+          },
+          {
+              "name": "Yoga Day Skit",
+              "theme": "Importance Of Yoga",
+              "date": "18th June, 2022"
+          },
+          {
+              "name": "Anaganaga Oka Roju",
+              "theme": "Short Film On Time Loop",
+              "date": "4th June, 2022"
+          },
+          {
+              "name": "Stand-Up Comedy Event",
+              "theme": "Part Of Navarasa The 9 Emotions",
+              "date": "6th September, 2022"
+          },
+          {
+              "name": "Itlu… Ni Parker",
+              "theme": "Short About A Pen Falling In Love",
+              "date": "3rd October, 2022"
+          },
+          {
+              "name": "Maaya",
+              "theme": "Short Film About A Writer Meeting A Stranger And Writing His Story",
+              "date": "11th December, 2022"
+          },
+          {
+              "name": "Kahaniya",
+              "theme": "Short Story Podcast",
+              "date": "2nd December, 2022 - Still Going On"
+          }
+      ],
+      "futurePlans": [
+          "The 2.0 versions of previous events",
+          "Collabs with other clubs",
+          "Newer Podcasts"
+      ]
+  },
+  {
+      "name": "AALAP – The Music Club",
+      "purpose": "The first club formed in KMIT, AALAP – The Music Club of KMIT visions in exploring the various new aspects of music, as the tagline says. AALAP provides the right platform to all music aspirants and enthusiasts in not only showcasing their talent, but to also explore, innovate and implement such ideas. From live performances and interactive jams to online collaborations, AALAP loves to take challenges and expand its wings, reach out to more and more people and keep entertaining them in the World of Music.",
+      "pastEvents": [
+          {
+              "name": "Battle of Bands",
+              "date": "31st Dec 2022"
+          },
+          {
+              "name": "IIT Kanpur Competition at Moonshine Project",
+              "date": "9th January 2022"
+          },
+          {
+              "name": "KMIT Pixel",
+              "date": "2nd April 2022"
+          },
+          {
+              "name": "Aalap’s Performance at MGBS Metro Station",
+              "date": "25th June 2022"
+          },
+          {
+              "name": "AALAP’s Performance at Next Premia Mall, Irrummanzil",
+              "date": "27th June 2022"
+          },
+          {
+              "name": "Battle of Bands in MGIT",
+              "date": "1st July 2022"
+          },
+          {
+              "name": "Comic Social Gig for Halloween",
+              "date": "31st October 2022"
+          }
+      ],
+      "futurePlans": [
+          "Battle of Bands 2.0",
+          "Aalap x Abhinaya",
+          "Monthly Band Practice",
+          "Retro to Pop Cover",
+          "Timely Instagram and Youtube Posts and Reels"
+      ]
+  },
+  {
+      "name": "AAKARSHAN – The Art Club",
+      "purpose": "The purpose of AAKARSHAN – KMIT’s very own ART CLUB is to encourage fine art awareness. Art club is a welcoming place for the students who have a deep passion for the visual Arts. The aim of this Art club is to represent not the outward appearance of things, but their inner significance. Art club facilitates its members to take up arts with greater joy, understanding and knowledge and experiencing them as vital expressions of the human spirit.",
+      "pastEvents": [
+          {
+              "name": "ART CHALLENGE",
+              "theme": "Story on Instagram",
+              "date": "10th May 2022"
+          },
+          {
+              "name": "DIY Series",
+              "theme": "Post on Instagram",
+              "date": "October 2022"
+          },
+          {
+              "name": "Tenali Rama and the Cursed Man",
+              "theme": "Aakarshan Stories – Video on Instagram",
+              "date": "17th June 2021"
+          },
+          {
+              "name": "Republic Day",
+              "theme": "Post on Instagram",
+              "date": "26th January 2022"
+          },
+          {
+              "name": "Father’s Day",
+              "theme": "Post on Instagram",
+              "date": "20th June 2021"
+          },
+          {
+              "name": "Pride Month Art",
+              "theme": "Post on Instagram",
+              "date": "18th June 2022"
+          },
+          {
+              "name": "Makar Sankranti",
+              "theme": "Post on Instagram",
+              "date": "15th January 2022"
+          },
+          {
+              "name": "PIXEL Event",
+              "theme": "Post on Instagram",
+              "date": "3rd May 2022"
+          },
+          {
+              "name": "Artistry",
+              "theme": "The Art Competition"
+          },
+          {
+              "name": "Pixel Event",
+              "theme": "Post on Instagram",
+              "date": "3rd May 2022"
+          },
+          {
+              "name": "Navraas 21 Event",
+              "theme": "Post on Instagram",
+              "date": "October 2021"
+          }
+      ],
+      "futurePlans": [
+          "DIY Series (Do it Yourself Series), February, 2023",
+          "VIBGYOR ACTIVITY (Post on Instagram), December, 2022",
+          "Art Competition, September, 2023",
+          "Aakarshan Stories, May, 2023",
+          "Art Series, February, 2023",
+          "Art Activity, December, 2022"
+      ]
+  },
+  {
+      "name": "Mudra – The Dance Club",
+      "purpose": "In an age where expression is one of the most powerful tools a man can possess, dance has become more than just a form of art or learning a series of steps to music. It is a way of moving that uses the body as an instrument of expression and communication. Through dance, one is educated about teamwork, focus and improvisation. Hence, the initiative of creating the KMIT dance club was taken. We believe in bringing talented students across all years under one roof, on one platform. The name we chose, Mudra, is a prominent part of a dancer’s vocabulary and is one of the most significant features of Indian classical dance.",
+      "pastEvents": [
+          {
+              "name": "Dance Cover",
+              "theme": "Song: Jimmiki Kamal, Idea: Single Shot Video",
+              "date": "19th November, 2021"
+          },
+          {
+              "name": "Instagram Reel",
+              "theme": "Song: Jugnu",
+              "date": "24th November, 2021"
+          },
+          {
+              "name": "Instagram TV (IGTV Series)",
+              "theme": "Fusion of Forms",
+              "date": "9th January, 2022"
+          },
+          {
+              "name": "Instagram Posts",
+              "theme": "Glimpses of Flashmob conducted for Pixel 22",
+              "date": "5th April, 2022"
+          },
+          {
+              "name": "Promotional Video with Dance for Recruitments",
+              "date": "14th June, 2022"
+          }
+      ],
+      "futurePlans": [
+          "Reel Series",
+          "Dance Cover (Different Dance Forms)",
+          "Instagram TV Video",
+          "Different Dance Styles Flashmob"
+      ]
+  },
+  {
+      "name": "Sports Club",
+      "purpose": "Sports are an essential part of our life. It teaches the important aspects of our life like discipline, self motivation, hard work, determination and it helps to decrease stress levels and mental illness. As our institute is having impeccable academic history let's try to improve our best in our sports field. In our institute sports need more support to develop and get excellent results. we have some ideas to increase sports interest in our Institute, we would like to conduct a sports fest and would encourage you to represent the KMIT team in their respective sport.",
+      "pastEvents": [
+          {
+              "name": "Conduction of Tournaments",
+              "details": "Consisting of all sports"
+          },
+          {
+              "name": "Selection of College Teams",
+              "details": "For outside tournaments"
+          },
+          {
+              "name": "Taking Part in Tournaments",
+              "details": "Held in other colleges"
+          },
+          {
+              "name": "Recruitments"
+          },
+          {
+              "name": "Badminton Singles"
+          },
+          {
+              "name": "Table Tennis Singles"
+          },
+          {
+              "name": "Basketball Boys Game"
+          },
+          {
+              "name": "Basketball Girls Game"
+          },
+          {
+              "name": "Volleyball"
+          },
+          {
+              "name": "InterClass Tournaments",
+              "details": "Chess, Volleyball, Basketball Boys, Basketball Girls, Table Tennis, Badminton, Throwball, Football"
+          },
+          {
+              "name": "KMIT Intra College Tournaments",
+              "details": "Basketball Boys, Basketball Girls, Table Tennis, Badminton, Throwball Girls, Chess, Volleyball Boys, Volleyball Girls"
+          }
+      ],
+      "futurePlans": [
+          "Recruitments",
+          "Basketball Boys",
+          "Basketball Girls",
+          "Table Tennis",
+          "Badminton",
+          "Throwball Girls",
+          "Chess",
+          "Volleyball Boys",
+          "Volleyball Girls",
+          "Kabaddi",
+          "Football"
+      ]
+  },
+  {
+      "name": "Kaivalya – The Yoga Club",
+      "purpose": "Kaivalya aims to separate stress and distractions from our fellow students by training body, mind and soul, and by synchronizing them. The club trains you in improving physical fitness, immunity boosting and enhances mental strength.",
+      "pastEvents": [
+          {
+              "name": "Yoga Workshop",
+              "date": "25th January, 2020"
+          },
+          {
+              "name": "The Suryanamaskara's",
+              "date": "26th January, 2021"
+          },
+          {
+              "name": "Darwin's Evolution X Dasavathara",
+              "date": "1st April, 2022"
+          },
+          {
+              "name": "Yoga Sadhana Program Live Telecast",
+              "details": "On DD Yadagiri",
+              "date": "4th May, 2022"
+          },
+          {
+              "name": "Yoga Workshop on Anxiety & Panic Attacks",
+              "date": "10th June, 2022"
+          },
+          {
+              "name": "Yoga Flashmob",
+              "date": "16th June, 2022"
+          },
+          {
+              "name": "Yoga Day Celebrations",
+              "date": "18th June, 2022"
+          }
+      ],
+      "futurePlans": [
+          "Phase – I Introduction to Yoga",
+          "Phase – II Yoga for Health",
+          "Phase – III Yoga for Physical Fitness",
+          "Phase – IV Yoga for Concentration",
+          "Phase – V Yoga for Personality Development",
+          "Phase - VI Rhythmic Yoga",
+          "Phase - VII Meditation, Pranayamas and Asanas"
+      ]
+  },
+  {
+      "name": "Traces of Lenses (ToL) – Tech Club",
+      "purpose": "The purpose of this club is to provide students with the opportunity, experience, and resources to pursue a career in Computer Science and also in Electronics & Communication outside the classrooms. This club can expand upon criteria in the curriculum to assist students in competing with their peers for enhancing their own skills. Though the main focus of this club is to provide an emphasis on computer programming, it is intended for the club to delve into all aspects in order to prevent educational limitations for its members.",
+      "pastEvents": [
+          {
+              "name": "Code Sangram",
+              "date": "9th December, 2022"
+          },
+          {
+              "name": "Treasure Hunt",
+              "date": "5th April, 2022"
+          },
+          {
+              "name": "Sophos Coding Competition"
+          },
+          {
+              "name": "Workshop: Linux And Open CV Workshop",
+              "details": "9 Sessions"
+          },
+          {
+              "name": "Ideathon"
+          },
+          {
+              "name": "Code Auction"
+          }
+      ],
+      "futurePlans": [
+          "Forms",
+          "Website for Recurse",
+          "Blogs",
+          "Frequent Competitive Coding Contests",
+          "Hackathon"
+      ]
+  },
+  {
+      "name": "Traces of Lenses – Photography Club",
+      "purpose": "Traces of Lenses, the photography club of KMIT aims to bring all the aspiring photographers under the same roof and continues to inspire and motivate them. They as photography club seek to display our love of photography through constructive criticism of our peers, leisure activities that involve photography. They promote creativity through photography, to educate and improve technical skills, to share and critique photography of peers, to educate and improve technical skills, and to spread the love of photography throughout the campus.",
+      "pastEvents": [
+          {
+              "name": "Critique Sessions"
+          },
+          {
+              "name": "Weekly Challenges"
+          },
+          {
+              "name": "Monthly Challenges"
+          },
+          {
+              "name": "Photowalks"
+          },
+          {
+              "name": "Shutterbugs Internship Program"
+          },
+          {
+              "name": "Workshops",
+              "details": "For club members apart from Shutterbugs, conducted college-wide"
+          },
+          {
+              "name": "Covered College Events",
+              "details": "Like PIXEL, Natyotsav, etc"
+          }
+      ],
+      "futurePlans": [
+          "2.0 versions of previous events",
+          "Collabs with other clubs"
+      ]
+  },
+  {
+      "name": "Vachan – The Speech Club",
+      "purpose": "Vachan aims to enhance and exhibit various forms of expression through speech from an individual’s perspective. The club encourages budding voices and provides a platform for numerous speakers and their words.",
+      "pastEvents": [
+          {
+              "name": "Picture Perfect"
+          },
+          {
+              "name": "Debate Competition"
+          },
+          {
+              "name": "Vachanaire Recruitment"
+          }
+      ],
+      "futurePlans": [
+          "MUN V-Charcha",
+          "MUN Promotion",
+          "Vachan x KMITRA MUN, Release Podcast"
+      ]
+  },
+  {
+      "name": "Public Relations Team",
+      "purpose": "The Public Relations Team leads the overall brand, voice and image of Keshav Memorial Institute of Technology. The judicial powers of the Council lies with the President and the PR Team. This dynamic team is responsible for managing internal and external communications to ensure that information and messages are consistently and accurately communicated across the KMIT community including students, faculty, staff and alumni. The department also spearheads the College’s online presence, social media outreach, marketing campaigns, press releases and editorials.",
+      "pastEvents": []
+  },
+  {
+      "name": "Organising Committee (OC)",
+      "purpose": "The Organising Committee is responsible for the entire logistics of all the events, seminars, fests and workshops or any other equivalent conducted in the college by the Council and also allotted venues and schedules the time for the events at club and college level. Abbreviated as OC, they work along with the Public Relations team and all the clubs of KMIT. OC is a decentralised committee which works throughout the semester to ensure less or no friction between organising and conducting any particular event.",
+      "pastEvents": [
+          {
+              "name": "NAVRAAS",
+              "date": "24th of September 2019"
+          },
+          {
+              "name": "Elocution Competition",
+              "date": "31st October 2019"
+          },
+          {
+              "name": "Patang Utsav"
+          },
+          {
+              "name": "KMIT - Evening Shore"
+          }
+      ],
+      "futurePlans": []
+  },
+  {
+      "name": "Kdarshan – Production Unit",
+      "purpose": "Kdarshan is KMIT’s first ever production unit (Creative Committee). They collaborate with the other clubs and shoot episodes which will be released on an online platform for the students of KMIT. They aim to promote the students unique talent in the college and give a platform to express themselves and showcase their talent.",
+      "pastEvents": [
+          {
+              "name": "Confab with Kdarshan - Episode 1",
+              "details": "Interview on Instagram",
+              "date": "11th May, 2020"
+          },
+          {
+              "name": "Confab with Kdarshan - Episode 2",
+              "details": "Interview on Instagram",
+              "date": "23rd May, 2020"
+          },
+          {
+              "name": "Confab with Kdarshan - Episode 3",
+              "details": "Interview on Instagram",
+              "date": "18th September, 2020"
+          },
+          {
+              "name": "Invoking Lord Ganesha",
+              "details": "YouTube Video",
+              "date": "20th November, 2019"
+          },
+          {
+              "name": "A Retro Ride into the Sunset",
+              "details": "YouTube Video",
+              "date": "20th November, 2019"
+          }
+      ],
+      "futurePlans": [
+          "Confab - An Interview Session",
+          "College Video",
+          "Short Film - The COVID-19",
+          "Placement Vlogs"
+      ]
+  },
+  {
+    "kmit_info": {
+      "college_name": "Keshav Memorial Institute of Technology (KMIT)",
+      "established_year": 2007,
+      "sponsor": "Keshav Memorial Education Society (KMES)",
+      "location": "Narayanaguda, Hyderabad, Telangana",
+      "affiliation": "Jawaharlal Nehru Technological University (JNTU), Hyderabad",
+      "approval": "AICTE, New Delhi",
+      "power_partner": "Genesis Solutions Pvt. Ltd"
+    },
+    "events": [
+      {
+        "name": "Webinar on Security and Privacy Issues in the World of Cryptocurrencies and Modern Mobile OSes",
+        "date": "06th April 2024",
+        "organizers": ["Departments of CSE & IT"],
+        "resource_person": "Dr. Ankit Gangwal",
+        "poster_link": "clickhere"
+      },
+      {
+        "name": "ECET 2024 Document Submission",
+        "details": "Documents to be submitted at the time of submission: ECET-2024-Click Here."
+      },
+      {
+        "name": "EAPCET 2024 Document Submission",
+        "details": "Documents to be submitted at the time of submission - EAPCET 2024, Click Here."
+      }
+    ],
+    "student_achievements": [
+      {
+        "student_name": "Ms. G. Hasini",
+        "student_id": "22BD1A660H",
+        "year": "3rd Year AIML Student",
+        "parent": "Mr. Rambabu",
+        "achievement": "Selected for the BCCI Senior Women’s One Day Cricket Team!"
+      },
+      {
+        "student_name": "Ms. SreeLaya",
+        "batch": "2023",
+        "achievement": "Bagged an international offer with Amazon, Dublin, with a pay package of 154,300 euros (1.2 cr rupees pa)."
+      },
+      {
+        "students": [
+          "Nischal Singhi",
+          "Srinivas Yadav",
+          "Akash Konda",
+          "P Sai Varshith"
+        ],
+        "achievement": "Project proposals accepted by GSoC."
+      }
+    ],
+    "placement_statistics": {
+      "total_companies_visited": 103,
+      "total_offers_rolled_out": 662,
+      "students_placed": 511,
+      "average_salary": "9.69 LPA",
+      "placement_breakdown": [
+        {
+          "salary_range": "40+ LPA",
+          "students_placed": 10
+        },
+        {
+          "salary_range": "20-40 LPA",
+          "students_placed": 6
+        },
+        {
+          "salary_range": "15-20 LPA",
+          "students_placed": 61
+        },
+        {
+          "salary_range": "10-15 LPA",
+          "students_placed": 149
+        },
+        {
+          "salary_range": "8-10 LPA",
+          "students_placed": 71
+        },
+        {
+          "salary_range": "6-8 LPA",
+          "students_placed": 174
+        },
+        {
+          "salary_range": "5-6 LPA",
+          "students_placed": 63
+        }
+      ]
+    },
+    "staff": {
+      "name": "Mr. D. Sudheer Reddy",
+      "designation": "Dean, Placements and Corporate Relations",
+      "experience": "14 years",
+      "email": "sudheer@kmit.in",
+      "phone": "+919989011611",
+      "bio": "Mr. D. Sudheer Reddy has over 14 years of professional work experience in placements, coordination, and building collaborative networks for overall managerial processes. He has worked with Hughes Communications India Limited (HCIL), NIIT, and joined KMIT in 2010. He has consistently grown the performance and built strong relationships with industry partners for student placements."
+    },
+    "learning_management_system": {
+    "name": "Tessellator",
+    "description": "Tessellator is KMIT’s customized learning management system based on Moodle. It includes modules for quizzes and code programming exercises in languages like Java and C. The system allows students to take quizzes and submit code, with the ability to compile and test it within the platform."
+  },
+  "kmit_details": {
+    "established": 2007,
+    "affiliation": "Jawaharlal Nehru Technological University, Hyderabad",
+    "approval": "AICTE",
+    "location": "Narayanaguda, Hyderabad",
+    "programs": [
+      "Trishul",
+      "Finishing School",
+      "UTTKARSH",
+      "SONET",
+      "New Horizons" 
+    ],
+    "description": "Keshav Memorial Institute of Technology (KMIT), established in year 2007, is one of the premier engineering colleges in the state of Telangana. KMIT is sponsored by Keshav Memorial Education Society (KMES), well known in Hyderabad, for the past 75 years, for running various educational institutions of repute. KMIT is approved by All India Council for Technical Education (AICTE), New Delhi, and affiliated to Jawaharlal Nehru Technological University (JNTU), Hyderabad and recognized by the Govt. of Telangana. KMIT is co-promoted and powered by Genesis Solutions Pvt. Ltd, a premier institute in Hyderabad imparting industry focused software training and education in emerging technologies and having tie-ups with leading MNCs. KMIT campus is located in Narayanaguda, a central locality in the city of Hyderabad."
+  }
+}
+]
